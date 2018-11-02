@@ -1,11 +1,12 @@
 {
   "name": "bs-querystringify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "BuckleScript bindings to querystringify",
   "main": "src/QueryStringify.bs.js",
   "scripts": {
     "build": "bsb -clean-world -make-world",
     "clean": "bsb -clean-world",
+    "prepack": "bsb -clean-world",
     "format": "bsrefmt --in-place **/*.re",
     "test": "exit 0"
   },
