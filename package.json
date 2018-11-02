@@ -1,6 +1,6 @@
 {
   "name": "bs-querystringify",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "BuckleScript bindings to querystringify",
   "main": "src/QueryStringify.bs.js",
   "scripts": {
@@ -28,9 +28,11 @@
   },
   "homepage": "https://github.com/mscharley/bs-querystringify#readme",
   "peerDependencies": {
-    "bs-platform": "^4.0.7"
+    "bs-platform": "^4.0.7",
+    "querystringify": "^2.1.0"
   },
   "devDependencies": {
-    "bs-platform": "4.0.7"
+    "bs-platform": "4.0.7",
+    "querystringify": "^2.1.0"
   }
 }
