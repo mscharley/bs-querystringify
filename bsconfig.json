@@ -1,5 +1,6 @@
 {
   "name": "bs-react-intl",
+  "namespace": true,
   "sources": [
     "src"
   ],
