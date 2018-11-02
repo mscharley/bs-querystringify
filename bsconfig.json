@@ -1,0 +1,14 @@
+{
+  "name": "bs-react-intl",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies": [],
+  "refmt": 3,
+  "bsc-flags": ["-bs-super-errors"],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js"
+}

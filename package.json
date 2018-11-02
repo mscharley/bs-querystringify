@@ -1,0 +1,35 @@
+{
+  "name": "bs-querystringify",
+  "version": "0.1.0",
+  "description": "BuckleScript bindings to querystringify",
+  "main": "src/QueryStringify.bs.js",
+  "scripts": {
+    "build": "bsb -clean-world -make-world",
+    "clean": "bsb -clean-world",
+    "format": "bsrefmt --in-place **/*.re",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscharley/bs-querystringify.git"
+  },
+  "keywords": [
+    "reason",
+    "reasonml",
+    "ocaml",
+    "bucklescript",
+    "querystringify"
+  ],
+  "author": "Matthew Scharley <matt@scharley.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mscharley/bs-querystringify/issues"
+  },
+  "homepage": "https://github.com/mscharley/bs-querystringify#readme",
+  "peerDependencies": {
+    "bs-platform": "^4.0.7"
+  },
+  "devDependencies": {
+    "bs-platform": "4.0.7"
+  }
+}
