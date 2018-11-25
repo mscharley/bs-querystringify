@@ -8,7 +8,8 @@
     "clean": "bsb -clean-world",
     "prepack": "bsb -clean-world",
     "format": "bsrefmt --in-place **/*.re",
-    "test": "jest"
+    "test": "jest",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.5",
     "bs-platform": "4.0.7",
-    "querystringify": "^2.1.0"
+    "querystringify": "^2.1.0",
+    "semantic-release": "^15.12.1"
   }
 }
