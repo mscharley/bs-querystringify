@@ -1,6 +1,6 @@
 {
   "name": "bs-querystringify",
-  "version": "0.1.5",
+  "version": "0.0.0-semantic-release",
   "description": "BuckleScript bindings to querystringify",
   "main": "src/QueryStringify.bs.js",
   "scripts": {
