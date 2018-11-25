@@ -1,6 +1,6 @@
 {
   "name": "bs-querystringify",
-  "namespace": true,
+  "namespace": false,
   "sources": [
     "src"
   ],
