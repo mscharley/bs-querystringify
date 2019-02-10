@@ -1,6 +1,6 @@
 # bs-querystringify
 
-[![npm](https://img.shields.io/npm/v/bs-querystringify.svg)](https://www.npmjs.com/package/bs-querystringify)
+[![npm](https://img.shields.io/npm/v/bs-querystringify.svg)](https://www.npmjs.com/package/bs-querystringify) [![Greenkeeper badge](https://badges.greenkeeper.io/mscharley/bs-querystringify.svg)](https://greenkeeper.io/)
 
 **Source:** [https://github.com/mscharley/bs-querystringify](https://github.com/mscharley/bs-querystringify)  
 **Author:** Matthew Scharley  
