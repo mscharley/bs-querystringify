@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.5",
-    "bs-platform": "4.0.18",
+    "bs-platform": "5.1.0",
     "querystringify": "^2.1.0",
     "semantic-release": "^15.12.1"
   }
